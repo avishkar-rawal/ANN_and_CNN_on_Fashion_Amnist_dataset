@@ -15,3 +15,5 @@ A simple **Artificial Neural Network (ANN)** built using PyTorch to classify Fas
 
 ```text
 784 → 128 → ReLU → 64 → ReLU → 10
+
+Dataset link : https://www.kaggle.com/datasets/zalando-research/fashionmnist
